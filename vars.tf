@@ -2,11 +2,11 @@
 
 # Defining Public Key
 variable "access_key" {
-  default = "AKIAVDG4Q6J2WGE52E5Z"
+  default = "your access key"
 }
 # Defining Private Key
 variable "secret_key" {
-  default = "4YrALICaq22fL41qzuXe/CuQo6jhzqI2gv3/TbsQ"
+  default = "your secret key"
 }
 
 # Defining CIDR Block for VPC
